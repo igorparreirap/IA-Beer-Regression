@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍺 IA-Beer-Regression: Previsão do Consumo de Cerveja
 
 
@@ -52,3 +53,7 @@ Estes coeficientes determinam a contribuição de cada variável para o consumo:
 Instale todas as bibliotecas necessárias usando o arquivo `requirements.txt`:
 ```bash
 pip install -r requirements.txt
+=======
+# IA-Beer-Regression
+Regressão Linear Múltipla para prever o consumo de cerveja com base em temperatura e fatores sazonais.
+>>>>>>> 1f3380e72f8494932a8274f04cc0f60eebde97c5
